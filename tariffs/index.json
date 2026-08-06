@@ -1,1 +1,17 @@
-
+{
+  "format": "energy_manager_tariff_index",
+  "version": 1,
+  "updated_at": "2026-08-06T00:00:00Z",
+  "plans": [
+    {
+      "label": "GloBird - Zero Hero - NSW - Essential Energy",
+      "file": "GloBird-ZeroHero-NSW-EssentialEnergy.json",
+      "provider": "GloBird",
+      "plan": "Zero Hero",
+      "state": "NSW",
+      "dnsp": "Essential Energy",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-06"
+    }
+  ]
+}
