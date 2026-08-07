@@ -22,6 +22,7 @@
     "input_number.other_export_2_battery_limit": 0,
     "input_number.other_export_3_battery_limit": 0,
     "input_number.other_free_kwh": 8,
+    "input_number.electricity_provider_daily_charge": 1.77853,
     "input_datetime.other_peak_1_start": "16:00:00",
     "input_datetime.other_peak_1_end": "21:00:00",
     "input_datetime.other_peak_2_start": "00:00:00",
