@@ -4,16 +4,6 @@
   "updated_at": "2026-08-06T00:00:00Z",
   "plans": [
     {
-      "label": "GloBird - Zero Hero - NSW - Essential Energy - 2026-07-01",
-      "file": "GloBird-ZeroHero-NSW-EssentialEnergy-20260701.json",
-      "provider": "GloBird",
-      "plan": "Zero Hero",
-      "state": "NSW",
-      "dnsp": "Essential Energy",
-      "effective_from": "2026-07-01",
-      "source_checked": "2026-08-06"
-    },
-    {
       "label": "GloBird - FOUR4FREE - QLD - Energex - 2026-07-23",
       "file": "GloBird-FOUR4FREE-QLD-Energex-20260723.json",
       "provider": "GloBird",
