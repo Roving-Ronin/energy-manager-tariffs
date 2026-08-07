@@ -62,6 +62,16 @@
       "dnsp": "Energex",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
+    },
+    {
+      "label": "AGL - Battery Rewards - NSW - Endeavour Energy - 2026-07-01",
+      "file": "AGL-BatteryRewards-NSW-EndeavourEnergy-20260701.json",
+      "provider": "AGL",
+      "plan": "Battery Rewards",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
     }
   ]
 }
