@@ -22,6 +22,16 @@
       "dnsp": "Energex",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
-    }
+    },
+    {
+      "label": "AGL - Night Saver EV - QLD - Energex - 2026-07-01",
+      "file": "AGL-NightSaverEV-QLD-Energex-20260701.json",
+      "provider": "AGL",
+      "plan": "Night Saver EV",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    }   
   ]
 }
