@@ -15,9 +15,9 @@
     "input_number.other_export_1_tariff": 0,
     "input_number.other_export_2_tariff": 0,
     "input_number.other_export_3_tariff": 0,
-    "input_number.other_export_1_export_kwh": 0,
-    "input_number.other_export_2_export_kwh": 0,
-    "input_number.other_export_3_export_kwh": 0,
+    "input_number.other_export_1_kwh": 0,
+    "input_number.other_export_2_kwh": 0,
+    "input_number.other_export_3_kwh": 0,
     "input_number.other_export_1_battery_limit": 0,
     "input_number.other_export_2_battery_limit": 0,
     "input_number.other_export_3_battery_limit": 0,
@@ -73,8 +73,8 @@
     "input_boolean.other_export_1_export": false,
     "input_boolean.other_export_2_export": false,
     "input_boolean.other_export_3_export": false,
-    "input_boolean.other_export_1_export_limit": false,
-    "input_boolean.other_export_2_export_limit": false,
-    "input_boolean.other_export_3_export_limit": false
+    "input_boolean.other_export_1_limit": false,
+    "input_boolean.other_export_2__limit": false,
+    "input_boolean.other_export_3_limit": false
   }
 }
