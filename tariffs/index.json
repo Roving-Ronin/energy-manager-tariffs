@@ -24,6 +24,16 @@
       "source_checked": "2026-08-06"
     },
     {
+      "label": "GloBird - SOLARPLUS Flexible - QLD - Energex - 2026-07-23",
+      "file": "GloBird-SOLARPLUSFlexible-QLD-Energex-20260723.json",
+      "provider": "GloBird",
+      "plan": "SOLARPLUS Flexible",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-23",
+      "source_checked": "2026-08-06"
+    },
+    {
       "label": "AGL - Solar Savers - QLD - Energex - 2026-07-01",
       "file": "AGL-SolarSavers-QLD-Energex-20260701.json",
       "provider": "AGL",
