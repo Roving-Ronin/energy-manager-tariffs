@@ -1,7 +1,7 @@
 {
   "format": "energy_manager_custom_tariff",
   "version": 1,
-  "name": "Covau - Basics TOU - QLD - Energex - 2026-07-01",
+  "name": "Covau - Basics - QLD - Energex - 2026-07-01",
   "provider": "Covau",
   "plan": "Basic",
   "state": "QLD",
