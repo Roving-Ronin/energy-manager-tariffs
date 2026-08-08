@@ -31,7 +31,7 @@ Note, follow the format of existing plan details if you are unsure what to add.
   "version": 1,
   "name": "{provider} - {plan} - {state} - {dnsp} - {start_date}",
   "provider": "{provider}",
-  "plan": "{plan}",**
+  "plan": "{plan}",
   "state": "{state}",
   "dnsp": "{dnsp}",
   "effective_from": "{start_date1",
@@ -41,7 +41,7 @@ Note, follow the format of existing plan details if you are unsure what to add.
     "input_number.other_offpeak_tariff": x,
     "input_number.other_shoulder_tariff": x,
     "input_number.other_additional_tariff": x,
-    "input_number.other_export_1_tariff": x8,
+    "input_number.other_export_1_tariff": x,
     "input_number.other_export_2_tariff": x,
     "input_number.other_export_3_tariff": x,
     "input_number.other_export_1_kwh": x,
