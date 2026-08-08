@@ -1,7 +1,7 @@
 {
   "format": "energy_manager_custom_tariff",
   "version": 1,
-  "name": "Covau - BasicsResidentialTOU - NSW - Essential Energy - 2026-07-01",
+  "name": "Covau - Basics TOU - NSW - Essential Energy - 2026-07-01",
   "provider": "Covau",
   "plan": "Basics Residential TOU",
   "state": "NSW",
