@@ -94,6 +94,16 @@
       "source_checked": "2026-08-07"
     },
     {
+      "label": "Covau - SolarMax TOU - NSW - Essential Energy - 2026-07-01",
+      "file": "Covau-SolarMaxTOU-NSW-EssentialEnergy-20260701.json",
+      "provider": "Covau",
+      "plan": "SolarMax Residential TOU",
+      "state": "NSW",
+      "dnsp": "Essential Energy",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    },
+    {
       "label": "Covau - Solar Sharer TOU - NSW - Essential Energy - 2026-07-01",
       "file": "Covau-SolarSharerTOU-NSW-EssentialEnergy-20260701.json",
       "provider": "Covau",
