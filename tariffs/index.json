@@ -78,8 +78,8 @@
       "file": "AGL-BatteryRewards-NSW-EndeavourEnergy-20260701.json",
       "provider": "AGL",
       "plan": "Battery Rewards",
-      "state": "QLD",
-      "dnsp": "Energex",
+      "state": "MSW",
+      "dnsp": "Endeavour Energy",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
     },
@@ -110,6 +110,26 @@
       "plan": "Solar Sharer Residential TOU",
       "state": "NSW",
       "dnsp": "Essential Energy",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    },
+    {
+      "label": "Covau - Basics - QLD - Energex - 2026-07-01",
+      "file": "Covau-Basics-QLD-Energex-20260701.json",
+      "provider": "Covau",
+      "plan": "Basics",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    },
+    {
+      "label": "Covau - Solar Sharer TOU - QLD - Energex - 2026-07-01",
+      "file": "Covau-SolarSharerTOU-QLD-Energex-20260701.json",
+      "provider": "Covau",
+      "plan": "Solar Sharer TOU",
+      "state": "QLD",
+      "dnsp": "Energex",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
     }
