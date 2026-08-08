@@ -92,6 +92,36 @@
       "dnsp": "Essential Energy",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
+    },
+    {
+      "label": "Covau - Basics - QLD - Energex - 2026-07-01",
+      "file": "Covau-Basics-QLD-Energex-20260701.json",
+      "provider": "Covau",
+      "plan": "Basics",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    },
+    {
+      "label": "Covau - Solar Sharer TOU - QLD - Energex - 2026-07-01",
+      "file": "Covau-SolarSharerTOU-QLD-Energex-20260701.json",
+      "provider": "Covau",
+      "plan": "Solar Sharer TOU",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    },
+    {
+      "label": "Covau - EVMax TOU - QLD - Energex - 2026-07-01",
+      "file": "Covau-EVMaxTOU-QLD-Energex-20260701.json",
+      "provider": "Covau",
+      "plan": "EVMax TOU",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
     }
   ]
 }
