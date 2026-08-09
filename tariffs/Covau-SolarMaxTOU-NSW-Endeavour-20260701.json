@@ -1,11 +1,11 @@
 {
   "format": "energy_manager_custom_tariff",
   "version": 1,
-  "name": "Covau - SolarMax TOU - NSW - Endeavour Energy - 2026-07-01",
+  "name": "Covau - SolarMax TOU - NSW - Endeavour - 2026-07-01",
   "provider": "Covau",
   "plan": "SolarMax TOU",
   "state": "NSW",
-  "dnsp": "EndeavourEnergy",
+  "dnsp": "Endeavour",
   "effective_from": "2026-07-01",
   "source_checked": "2026-08-09",
   "entities": {
