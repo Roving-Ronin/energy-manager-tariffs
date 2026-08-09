@@ -1,11 +1,11 @@
 {
   "format": "energy_manager_custom_tariff",
   "version": 1,
-  "name": "AGL - Battery Rewards - NSW - Endeavour Energy - 2026-07-01",
+  "name": "AGL - Battery Rewards - NSW - Endeavour - 2026-07-01",
   "provider": "AGL",
   "plan": "Battery Rewards",
   "state": "NSW",
-  "dnsp": "Endeavour Energy",
+  "dnsp": "Endeavour",
   "effective_from": "2026-07-01",
   "source_checked": "2026-08-07",
   "entities": {
