@@ -1,38 +1,8 @@
 {
   "format": "energy_manager_tariff_index",
   "version": 1,
-  "updated_at": "2026-08-06T00:00:00Z",
+  "updated_at": "2026-08-09T00:00:00Z",
   "plans": [
-    {
-      "label": "GloBird - FOUR4FREE - QLD - Energex - 2026-07-23",
-      "file": "GloBird-FOUR4FREE-QLD-Energex-20260723.json",
-      "provider": "GloBird",
-      "plan": "FOUR4FREE",
-      "state": "QLD",
-      "dnsp": "Energex",
-      "effective_from": "2026-07-23",
-      "source_checked": "2026-08-06"
-    },
-    {
-      "label": "GloBird - FOUR4FREE - NSW - Essential Energy - 2026-07-01",
-      "file": "GloBird-FOUR4FREE-NSW-EssentialEnergy-20260701.json",
-      "provider": "GloBird",
-      "plan": "FOUR4FREE",
-      "state": "NSW",
-      "dnsp": "EssentialEnergy",
-      "effective_from": "2026-07-01",
-      "source_checked": "2026-08-08"
-    },
-    {
-      "label": "GloBird - SOLARPLUS Flexible - QLD - Energex - 2026-07-23",
-      "file": "GloBird-SOLARPLUSFlexible-QLD-Energex-20260723.json",
-      "provider": "GloBird",
-      "plan": "SOLARPLUS Flexible",
-      "state": "QLD",
-      "dnsp": "Energex",
-      "effective_from": "2026-07-23",
-      "source_checked": "2026-08-06"
-    },
     {
       "label": "AGL - Solar Savers - QLD - Energex - 2026-07-01",
       "file": "AGL-SolarSavers-QLD-Energex-20260701.json",
@@ -78,7 +48,7 @@
       "file": "AGL-BatteryRewards-NSW-EndeavourEnergy-20260701.json",
       "provider": "AGL",
       "plan": "Battery Rewards",
-      "state": "MSW",
+      "state": "NSW",
       "dnsp": "Endeavour Energy",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
@@ -102,6 +72,26 @@
       "dnsp": "Essential Energy",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
+    },
+    {
+      "label": "Covau - SolarMax TOU - NSW - Endeavour Energy - 2026-07-01",
+      "file": "Covau-SolarMaxTOU-NSW-EndeavourEnergy-20260701.json",
+      "provider": "Covau",
+      "plan": "SolarMax Residential TOU",
+      "state": "NSW",
+      "dnsp": "Endeavour Energy",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    },
+    {
+      "label": "Covau - Solar Sharer TOU - NSW - Ausgrid - 2026-09-01",
+      "file": "Covau-SolarSharerTOU-NSW-Ausgrid-20260901.json",
+      "provider": "Covau",
+      "plan": "Solar Sharer TOU",
+      "state": "NSW",
+      "dnsp": "Ausgrid",
+      "effective_from": "2026-09-01",
+      "source_checked": "2026-08-09"
     },
     {
       "label": "Covau - Solar Sharer TOU - NSW - Essential Energy - 2026-07-01",
@@ -130,6 +120,46 @@
       "plan": "Solar Sharer TOU",
       "state": "QLD",
       "dnsp": "Energex",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    },
+    {
+      "label": "GloBird - FOUR4FREE - QLD - Energex - 2026-07-23",
+      "file": "GloBird-FOUR4FREE-QLD-Energex-20260723.json",
+      "provider": "GloBird",
+      "plan": "FOUR4FREE",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-23",
+      "source_checked": "2026-08-06"
+    },
+    {
+      "label": "GloBird - FOUR4FREE - NSW - Essential Energy - 2026-07-01",
+      "file": "GloBird-FOUR4FREE-NSW-EssentialEnergy-20260701.json",
+      "provider": "GloBird",
+      "plan": "FOUR4FREE",
+      "state": "NSW",
+      "dnsp": "EssentialEnergy",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-08"
+    },
+    {
+      "label": "GloBird - SOLARPLUS Flexible - QLD - Energex - 2026-07-23",
+      "file": "GloBird-SOLARPLUSFlexible-QLD-Energex-20260723.json",
+      "provider": "GloBird",
+      "plan": "SOLARPLUS Flexible",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-23",
+      "source_checked": "2026-08-06"
+    },
+    {
+      "label": "Ovo - EV Plan TOU - NSW - Endeavour Energy - 2026-07-01",
+      "file": "Ovo-EVPlan-NSW-EndeavourEnergy-20260701.json",
+      "provider": "Ovo",
+      "plan": "EV Plan TOU",
+      "state": "NSW",
+      "dnsp": "EndeavourEnergy",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
     }
