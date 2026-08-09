@@ -1,7 +1,7 @@
 {
   "format": "energy_manager_tariff_index",
   "version": 1,
-  "updated_at": "2026-08-06T00:00:00Z",
+  "updated_at": "2026-08-09T00:00:00Z",
   "plans": [
     {
       "label": "AGL - Solar Savers - QLD - Energex - 2026-07-01",
