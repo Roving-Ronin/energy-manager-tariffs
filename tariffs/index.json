@@ -4,36 +4,6 @@
   "updated_at": "2026-08-06T00:00:00Z",
   "plans": [
     {
-      "label": "GloBird - FOUR4FREE - QLD - Energex - 2026-07-23",
-      "file": "GloBird-FOUR4FREE-QLD-Energex-20260723.json",
-      "provider": "GloBird",
-      "plan": "FOUR4FREE",
-      "state": "QLD",
-      "dnsp": "Energex",
-      "effective_from": "2026-07-23",
-      "source_checked": "2026-08-06"
-    },
-    {
-      "label": "GloBird - FOUR4FREE - NSW - Essential Energy - 2026-07-01",
-      "file": "GloBird-FOUR4FREE-NSW-EssentialEnergy-20260701.json",
-      "provider": "GloBird",
-      "plan": "FOUR4FREE",
-      "state": "NSW",
-      "dnsp": "EssentialEnergy",
-      "effective_from": "2026-07-01",
-      "source_checked": "2026-08-08"
-    },
-    {
-      "label": "GloBird - SOLARPLUS Flexible - QLD - Energex - 2026-07-23",
-      "file": "GloBird-SOLARPLUSFlexible-QLD-Energex-20260723.json",
-      "provider": "GloBird",
-      "plan": "SOLARPLUS Flexible",
-      "state": "QLD",
-      "dnsp": "Energex",
-      "effective_from": "2026-07-23",
-      "source_checked": "2026-08-06"
-    },
-    {
       "label": "AGL - Solar Savers - QLD - Energex - 2026-07-01",
       "file": "AGL-SolarSavers-QLD-Energex-20260701.json",
       "provider": "AGL",
@@ -132,6 +102,46 @@
       "dnsp": "Energex",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
+    },
+    {
+      "label": "Ovo - EV Plan TOU - NSW - Endeavour Energy - 2026-07-01",
+      "file": "Ovo-EVPlan-NSW-EndeavourEnergy-20260701.json",
+      "provider": "Ovo",
+      "plan": "EV Plan TOU",
+      "state": "NSW",
+      "dnsp": "EndeavourEnergy",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-07"
+    },
+    {
+      "label": "GloBird - FOUR4FREE - QLD - Energex - 2026-07-23",
+      "file": "GloBird-FOUR4FREE-QLD-Energex-20260723.json",
+      "provider": "GloBird",
+      "plan": "FOUR4FREE",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-23",
+      "source_checked": "2026-08-06"
+    },
+    {
+      "label": "GloBird - FOUR4FREE - NSW - Essential Energy - 2026-07-01",
+      "file": "GloBird-FOUR4FREE-NSW-EssentialEnergy-20260701.json",
+      "provider": "GloBird",
+      "plan": "FOUR4FREE",
+      "state": "NSW",
+      "dnsp": "EssentialEnergy",
+      "effective_from": "2026-07-01",
+      "source_checked": "2026-08-08"
+    },
+    {
+      "label": "GloBird - SOLARPLUS Flexible - QLD - Energex - 2026-07-23",
+      "file": "GloBird-SOLARPLUSFlexible-QLD-Energex-20260723.json",
+      "provider": "GloBird",
+      "plan": "SOLARPLUS Flexible",
+      "state": "QLD",
+      "dnsp": "Energex",
+      "effective_from": "2026-07-23",
+      "source_checked": "2026-08-06"
     }
   ]
 }
