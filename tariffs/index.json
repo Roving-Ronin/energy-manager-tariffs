@@ -44,12 +44,12 @@
       "source_checked": "2026-08-07"
     },
     {
-      "label": "AGL - Battery Rewards - NSW - Endeavour Energy - 2026-07-01",
-      "file": "AGL-BatteryRewards-NSW-EndeavourEnergy-20260701.json",
+      "label": "AGL - Battery Rewards - NSW - Endeavour - 2026-07-01",
+      "file": "AGL-BatteryRewards-NSW-Endeavour-20260701.json",
       "provider": "AGL",
       "plan": "Battery Rewards",
       "state": "NSW",
-      "dnsp": "Endeavour Energy",
+      "dnsp": "Endeavour",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
     },
@@ -74,12 +74,12 @@
       "source_checked": "2026-08-07"
     },
     {
-      "label": "Covau - SolarMax TOU - NSW - Endeavour Energy - 2026-07-01",
-      "file": "Covau-SolarMaxTOU-NSW-EndeavourEnergy-20260701.json",
+      "label": "Covau - SolarMax TOU - NSW - Endeavour - 2026-07-01",
+      "file": "Covau-SolarMaxTOU-NSW-Endeavour-20260701.json",
       "provider": "Covau",
       "plan": "SolarMax Residential TOU",
       "state": "NSW",
-      "dnsp": "Endeavour Energy",
+      "dnsp": "Endeavour",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
     },
@@ -154,12 +154,12 @@
       "source_checked": "2026-08-06"
     },
     {
-      "label": "Ovo - EV Plan TOU - NSW - Endeavour Energy - 2026-07-01",
-      "file": "Ovo-EVPlan-NSW-EndeavourEnergy-20260701.json",
+      "label": "Ovo - EV Plan TOU - NSW - Endeavour - 2026-07-01",
+      "file": "Ovo-EVPlan-NSW-Endeavour-20260701.json",
       "provider": "Ovo",
       "plan": "EV Plan TOU",
       "state": "NSW",
-      "dnsp": "EndeavourEnergy",
+      "dnsp": "Endeavour",
       "effective_from": "2026-07-01",
       "source_checked": "2026-08-07"
     }
