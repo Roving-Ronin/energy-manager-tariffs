@@ -1,7 +1,7 @@
 {
   "format": "energy_manager_custom_tariff",
   "version": 1,
-  "name": "Covau - SolarMax TOU - NSW - Essential Energy - 20260701",
+  "name": "Covau - SolarMax TOU - NSW - Essential Energy - 2026-07-01",
   "provider": "Covau",
   "plan": "SolarMax Residential TOU",
   "state": "NSW",
