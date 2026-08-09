@@ -34,7 +34,7 @@ Note, follow the format of existing plan details if you are unsure what to add.
   "plan": "{plan}",
   "state": "{state}",
   "dnsp": "{dnsp}",
-  "effective_from": "{start_date1",
+  "effective_from": "{start_date}",
   "source_checked": "{date_now}",
   "entities": {
     "input_number.other_peak_tariff": x,
