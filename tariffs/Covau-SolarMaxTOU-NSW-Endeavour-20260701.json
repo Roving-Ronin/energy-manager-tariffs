@@ -19,7 +19,7 @@
     "input_number.other_export_1_kwh": 30,
     "input_number.other_export_2_kwh": 0,
     "input_number.other_export_3_kwh": 0,
-    "input_number.other_export_1_battery_limit": 0,
+    "input_number.other_export_1_battery_limit": 80,
     "input_number.other_export_2_battery_limit": 0,
     "input_number.other_export_3_battery_limit": 0,
     "input_number.other_free_kwh": 50,
