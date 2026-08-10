@@ -154,14 +154,14 @@
       "source_checked": "2026-08-06"
     },
     {
-      "label": "Ovo - EV Plan TOU - NSW - Endeavour - 2026-07-01",
-      "file": "Ovo-EVPlan-NSW-Endeavour-20260701.json",
+      "label": "Ovo - Basic EV Plan - NSW - Endeavour - 2026-07-01",
+      "file": "Ovo-BasicEVPlan-NSW-Endeavour-20260701.json",
       "provider": "Ovo",
-      "plan": "EV Plan TOU",
+      "plan": "Basic EV Plan",
       "state": "NSW",
       "dnsp": "Endeavour",
       "effective_from": "2026-07-01",
-      "source_checked": "2026-08-07"
+      "source_checked": "2026-08-10"
     }
   ]
 }
