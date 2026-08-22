@@ -24,7 +24,7 @@ Note, follow the format of existing plan details if you are unsure what to add.
 
 ### Step 3: Create a new json file specifically for the electricity plan
 1) Create a new file named according to the following pattern:  {provider}-{plan}-{state}-{dnsp}-{start_date_short}.json
-2) Paste the content from Step 1 above, making sure that it matches exactly the below format: (note, export date will need to be removed, plus some others added. Replace all "x" with the real values.)
+2) Paste the content from Step 1 above, making sure that it matches the below format exactly: (note, export date will need to be removed, plus some others added. Replace all "x" with the real values.)
 ```bash
 {
   "format": "energy_manager_custom_tariff",
