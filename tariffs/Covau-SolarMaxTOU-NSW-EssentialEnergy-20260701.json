@@ -7,7 +7,7 @@
   "state": "NSW",
   "dnsp": "EssentialEnergy",
   "effective_from": "2026-07-01",
-  "source_checked": "2026-08-08",
+  "source_checked": "2026-08-25",
   "entities": {
     "input_number.other_peak_tariff": 0.45331,
     "input_number.other_offpeak_tariff": 0.165,
