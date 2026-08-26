@@ -15,7 +15,7 @@
     "input_number.other_offpeak_2_battery_restrict_under": 0,
     "input_number.other_offpeak_3_battery_restrict_under": 0,
     "input_number.other_shoulder_tariff": 0.24024,
-	  "input_number.other_shoulder_1_battery_restrict_under": 0,
+	"input_number.other_shoulder_1_battery_restrict_under": 0,
     "input_number.other_shoulder_2_battery_restrict_under": 0,
     "input_number.other_shoulder_3_battery_restrict_under": 0,
     "input_number.other_additional_tariff": 0,
